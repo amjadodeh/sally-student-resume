@@ -1,0 +1,14 @@
+section {
+  background-color: cornsilk;
+  padding: 15px;
+  border: 3px black solid;
+  margin: 20px auto;
+  border-radius: 10px;
+}
+
+@media (min-width: 900px) {
+  body {
+    width: 60%;
+    margin: auto;
+  }
+}
